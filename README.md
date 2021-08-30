@@ -1,0 +1,2 @@
+# Forecast-the-Amazon-stock-price-using-time-series
+Amazon.com, Inc. engages in the retail sale of consumer products and subscriptions in North America as well as internationally. Given a dataset consists of monthly average stock closing prices of Amazon over a period of 12 years from 2006 to 2017. I will build a time series model using the AR, MA, ARMA and ARIMA models in order to predict the stock closing price of Amazon.
